@@ -1,4 +1,4 @@
-- 👋  Hi, I’m Terry McHugh.
+- 👋      Hi, I’m Terry McHugh.
 - I’m interested in curation and management of preclinical, clinical, and EMR data.
 - How to reach me: terrence.r.mchugh@gmail.com
 
